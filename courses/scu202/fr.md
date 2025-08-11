@@ -17,7 +17,7 @@ L’objectif n’est pas seulement de connaître les bonnes pratiques : il s’a
 
 Au fil des modules, vous découvrirez comment vérifier l’intégrité des logiciels que vous installez, chiffrer efficacement vos données, utiliser votre navigateur et votre téléphone avec un minimum de fuite de données, et renforcer la sécurité de votre réseau domestique.
 
-Ce cours s’adresse aux utilisateurs intermédiaires qui souhaitent aller plus loin dans la maîtrise de leurs outils numériques. Elle repose sur une approche pragmatique, orientée autonomie et souveraineté, afin de construire un usage quotidien plus sûr et plus conscient de l'informatique, dans l'esprit du "*Don't Trust, Verify*".
+Ce cours s’adresse aux utilisateurs intermédiaires qui souhaitent aller plus loin dans la maîtrise de leurs outils numériques. Elle repose sur une approche pragmatique, orientée autonomie et souveraineté, afin de construire un usage quotidien plus sûr et plus conscient de l'informatique, dans l'esprit du "*Ne fais pas confiance, vérifie*".
 
 +++
 
@@ -31,7 +31,7 @@ Bienvenue dans le cours SCU 202, la suite du cours SCU 101 qui vous mènera plus
 
 ### Partie 1 - Introduction
 
-Le cours débutera par un rapide rappel des notions vues dans SCU 101. Cette révision garantira que vous êtes pleinement à jour sur les principes fondamentaux nécessaires pour bien aborder la suite.
+Le cours débutera par un rapide rappel des notions vues dans le cours SCU 101. Cette révision garantira que vous êtes pleinement à jour sur les principes fondamentaux nécessaires pour bien aborder la suite.
 
 ### Partie 2 - Du clic au terminal : maîtriser Linux
 
@@ -81,7 +81,7 @@ Pour clôturer ce cours, vous pourrez tenter d'avoir votre diplôme en passant l
 
 Prêt à prendre pleinement en main votre sécurité informatique, renforcer votre souveraineté individuelle et garantir votre confidentialité en ligne ? Allons-y !
 
-*N.B. : Si vous rencontrez des termes qui vous sont inconnus au cours de la formation, veuillez consulter [le glossaire](https://planb.network/resources/glossary) pour en trouver les définitions.*
+*P.S. : Si vous rencontrez des termes qui vous sont inconnus au cours de la formation, veuillez consulter [le glossaire](https://planb.network/resources/glossary) pour en trouver les définitions.*
 
 ## Récapitulatif essentiel de SCU 101
 <chapterId>26cfac35-a3bb-4657-95b3-8508bedfa903</chapterId>
@@ -90,7 +90,7 @@ Avant de débuter le cours SCU 202, je vous propose de revoir brièvement dans c
 
 D’ailleurs, si vous êtes encore débutant en informatique et que vous n’avez pas suivi SCU 101, je vous recommande vivement de commencer par cette première formation avant d’aborder celle-ci. Les bases abordées dans SCU 101 ne seront pas reprises ici. Je ne reviendrai donc pas sur les pratiques élémentaires de sécurité, ni sur l’utilisation des VPN, des gestionnaires de mots de passe ou encore de l’authentification à deux facteurs. Et pourtant, toutes ces notions sont essentielles à maîtriser avant de passer à des usages plus avancés que nous allons aborder dans les chapitres suivants.
 
-La formation SCU 101 était une formation d’introduction, conçue pour établir une base solide d’hygiène numérique à destination des utilisateurs débutants et intermédiaires en informatique. Elle avait pour objectif d’améliorer au quotidien sa sécurité, sa confidentialité et sa souveraineté numérique.
+La formation SCU 101 était une formation d’introduction, conçue pour établir une base solide en hygiène numérique à destination des utilisateurs débutants et intermédiaires en informatique. Elle avait pour objectif d’améliorer au quotidien sa sécurité, sa confidentialité et sa souveraineté numérique.
 
 https://planb.network/courses/99c46148-7080-4915-a7e0-9df0e145cd47
 
